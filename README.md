@@ -1,4 +1,4 @@
-Hi, I'm Rafael Rojas
+Greetings! I'm Rafael Rojas 😁
 - 🖥️ I'm a Jr. backend developer
 - 👩🏻‍💻 Experience building APIs in Javascript, Go, and Python
 - 🎵 Want to discover your new favorite song? Check out my music recommendation system: [TrackStack](https://trackstack-c9rh.onrender.com/)
