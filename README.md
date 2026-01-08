@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi, I'm Rafael Rojas
+- 🖥️ I'm a Jr. Developer focusing on Backend Development
+- 👩🏻‍💻 Experienced writing APIs in Javascript, Golang and Python
+- 🎵 Want to discover your new favorite song? Check out my Music Recommendation System [TrackStack](https://trackstack-c9rh.onrender.com/)
+- ⚙️ Looking for work to improve and write clean code
+- 🎤 Contact [me](https://www.linkedin.com/in/rafael-rojas-diaz/)
 
 <!--
 **Raghart/Raghart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
