@@ -3,6 +3,8 @@ I'm a software developer who's **passionate** about Backend Development, code ar
 
 - I have experience building projects in Javascript / Typescript, Go and Python
 
--  Check out my music recommendation Web APP that uses vector embeddings, RAG principles and a robust weighted system to tune in songs according to your tastes!: [TrackStack](https://trackstack-c9rh.onrender.com/)
-- ⚙️ Looking for opportunities to write clean, maintainable backend code
-- 💼 You can contact me on [Linkedin](https://www.linkedin.com/in/rafael-rojas-diaz/)
+-  Check out my music recommendation Web APP that uses vector embeddings, RAG principles and a robust weighted system to deliver songs according to your tastes: [TrackStack](https://trackstack-c9rh.onrender.com/)
+  
+- Looking for opportunities to work in grand scales projects to expand my knowledge about big and scalable code architecture
+  
+- You can contact me on [Linkedin](https://www.linkedin.com/in/rafael-rojas-diaz/)
