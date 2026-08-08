@@ -2,7 +2,7 @@
 I'm a software developer who's passionate about backend development, software architecture, and building smooth user experiences. I enjoy designing and building software that solves real problems.
 
 - Experienced in building projects with JavaScript, TypeScript, Go, and Python.
-<div style="display: flex; gap: 10px"> 
+<div style="display: flex; gap: 10px; align: center"> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="150">
 
 <img src="https://raw.githubusercontent.com/remojansen/logo.ts/refs/heads/master/ts.gif" height="130" style="border-radius: 20px">
@@ -16,14 +16,14 @@ I'm a software developer who's passionate about backend development, software ar
 
 - Check out my music recommendation web app that uses vector embeddings and a weighted recommendation system: [TrackStack](https://trackstack-c9rh.onrender.com/).
 
-<center>
+<div align="center">
 <img src="https://i.pinimg.com/originals/1d/28/86/1d288661840f89f7ece0d1b72f2289ee.gif" height="150">
-</center>
+</div>
   
 - Looking for opportunities to work on large-scale projects to develop my knowledge of software architecture.
 
-<center>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="200">
-</center>
+</div>
   
 - Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/rafael-rojas-diaz/).
