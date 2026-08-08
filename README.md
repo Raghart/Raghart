@@ -2,7 +2,7 @@
 I'm a software developer who's passionate about backend development, software architecture, and building smooth user experiences. I enjoy designing and building software that solves real problems.
 
 - Experienced in building projects with JavaScript, TypeScript, Go, and Python.
-<div style="display: flex; gap: 10px; align: center"> 
+<div style="display: flex; gap: 10px" align="center"> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="150">
 
 <img src="https://raw.githubusercontent.com/remojansen/logo.ts/refs/heads/master/ts.gif" height="130" style="border-radius: 20px">
