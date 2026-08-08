@@ -15,6 +15,10 @@ I'm a software developer who's **passionate** about Backend Development, code ar
 </div>
 
 -  Check out my music recommendation Web APP that uses vector embeddings, RAG principles and a robust weighted system to deliver songs according to your tastes: [TrackStack](https://trackstack-c9rh.onrender.com/)
+
+<center>
+<img src="https://i.pinimg.com/originals/1d/28/86/1d288661840f89f7ece0d1b72f2289ee.gif" height="150">
+</center>
   
 - Looking for opportunities to work in grand scales projects to expand my knowledge about big and scalable code architecture
   
