@@ -14,7 +14,7 @@ I'm a software developer who's passionate about backend development, software ar
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="150">
 </div>
 
-- I'm a [Boot.dev Archmage](https://www.boot.dev/u/raghart) who has completed 2 learning paths:
+- [Boot.dev Archmage](https://www.boot.dev/u/raghart) who has completed 2 learning paths:
 <div style="display: flex; gap: 20px" align="center">
 <a href="https://www.boot.dev/certificates/c9571c00-3f7e-464e-8107-4829bce06e66">
 <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c9571c00-3f7e-464e-8107-4829bce06e66.jpeg?v=1780515688" height="250">
