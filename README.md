@@ -21,6 +21,10 @@ I'm a software developer who's **passionate** about Backend Development, code ar
 </center>
   
 - Looking for opportunities to work in grand scales projects to expand my knowledge about big and scalable code architecture
+
+<center>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="200">
+</center>
   
 - Want to connect? Check out my [Linkedin](https://www.linkedin.com/in/rafael-rojas-diaz/)
 
