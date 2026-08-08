@@ -1,7 +1,9 @@
 # Welcome, I'm Rafael Rojas 👋
 I'm a software developer who's **passionate** about Backend Development, code architecture and creating good and fluid user experiences. The possibility of designing and building software to solve problems made me fall in love with this field.
 
+<center>
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="border-radius: 20px">
+</center>
 
 - Experienced building projects in Javascript / Typescript, Go and Python
 <div style="display: flex; gap: 10px"> 
