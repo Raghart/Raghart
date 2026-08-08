@@ -28,4 +28,6 @@ I'm a software developer who's **passionate** about Backend Development, code ar
   
 - Want to connect? Check out my [Linkedin](https://www.linkedin.com/in/rafael-rojas-diaz/)
 
-<img alt="Linkeding Image" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="200" height="200">
+<center>
+<img alt="Linkeding Image" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="200">
+</center>
