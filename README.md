@@ -1,7 +1,7 @@
 # Welcome, I'm Rafael Rojas 👋
 I'm a software developer who's passionate about backend development, software architecture, and building smooth user experiences. I enjoy designing and building software that solves real problems.
 
-- Experienced in building projects with JavaScript / TypeScript, Go, and Python
+- Experienced in building projects with JavaScript, TypeScript, Go, and Python.
 <div style="display: flex; gap: 10px"> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="150">
 
@@ -14,20 +14,16 @@ I'm a software developer who's passionate about backend development, software ar
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="150">
 </div>
 
--  Check out my music recommendation web app that uses vector embeddings and a weighted recommendation system: [TrackStack](https://trackstack-c9rh.onrender.com/)
+- Check out my music recommendation web app that uses vector embeddings and a weighted recommendation system: [TrackStack](https://trackstack-c9rh.onrender.com/).
 
 <center>
 <img src="https://i.pinimg.com/originals/1d/28/86/1d288661840f89f7ece0d1b72f2289ee.gif" height="150">
 </center>
   
-- Looking for opportunities to work in large-scale projects to develop my knowledge of software architecture
+- Looking for opportunities to work on large-scale projects to develop my knowledge of software architecture.
 
 <center>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="200">
 </center>
   
-- Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/rafael-rojas-diaz/)
-
-<center>
-<img alt="LinkedIn Image" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="200">
-</center>
+- Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/rafael-rojas-diaz/).
