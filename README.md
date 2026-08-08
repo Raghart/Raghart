@@ -9,9 +9,11 @@ I'm a software developer who's **passionate** about Backend Development, code ar
 
 <img src="https://raw.githubusercontent.com/remojansen/logo.ts/refs/heads/master/ts.gif" height="130" style="border-radius: 20px">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="150">
+<img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" height="150">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="150">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="150">
 </div>
 
 -  Check out my music recommendation Web APP that uses vector embeddings, RAG principles and a robust weighted system to deliver songs according to your tastes: [TrackStack](https://trackstack-c9rh.onrender.com/)
