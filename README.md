@@ -14,6 +14,14 @@ I'm a software developer who's passionate about backend development, software ar
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="150">
 </div>
 
+- I'm a [Boot.dev Archmage](https://www.boot.dev/u/raghart) who has completed 2 learning paths:
+<div align="center">
+
+[![Boot.dev Backend Developer Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c9571c00-3f7e-464e-8107-4829bce06e66.jpeg?v=1780515688)](https://www.boot.dev/certificates/c9571c00-3f7e-464e-8107-4829bce06e66)
+
+[![Boot.dev Data Analyst Learning Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a128275b-d414-4d2e-b89f-5a382750d091.jpeg?v=1785975352)](https://www.boot.dev/certificates/a128275b-d414-4d2e-b89f-5a382750d091)
+</div>
+
 - Check out my music recommendation web app that uses vector embeddings and a weighted recommendation system: [TrackStack](https://trackstack-c9rh.onrender.com/).
 
 <div align="center">
