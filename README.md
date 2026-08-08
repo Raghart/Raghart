@@ -17,10 +17,10 @@ I'm a software developer who's passionate about backend development, software ar
 - I'm a [Boot.dev Archmage](https://www.boot.dev/u/raghart) who has completed 2 learning paths:
 <div style="display: flex; gap: 15px" align="center">
 <a href="https://www.boot.dev/certificates/c9571c00-3f7e-464e-8107-4829bce06e66">
-<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c9571c00-3f7e-464e-8107-4829bce06e66.jpeg?v=1780515688" height="150">
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c9571c00-3f7e-464e-8107-4829bce06e66.jpeg?v=1780515688" height="200">
 </a>
 <a href="https://www.boot.dev/certificates/a128275b-d414-4d2e-b89f-5a382750d091">
-<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a128275b-d414-4d2e-b89f-5a382750d091.jpeg?v=1785975352" height="150">
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a128275b-d414-4d2e-b89f-5a382750d091.jpeg?v=1785975352" height="200">
 </a>
 </div>
 
