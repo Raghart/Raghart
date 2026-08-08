@@ -5,7 +5,7 @@ I'm a software developer who's **passionate** about Backend Development, code ar
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="border-radius: 20px">
 </center>
 
-- Experienced building projects in Javascript / Typescript, Go and Python
+- Experienced in building projects in JavaScript / TypeScript, Go and Python
 <div style="display: flex; gap: 10px"> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="150">
 
@@ -24,14 +24,14 @@ I'm a software developer who's **passionate** about Backend Development, code ar
 <img src="https://i.pinimg.com/originals/1d/28/86/1d288661840f89f7ece0d1b72f2289ee.gif" height="150">
 </center>
   
-- Looking for opportunities to work in grand scales projects to expand my knowledge about big and scalable code architecture
+- Looking for opportunities to work in large-scale projects to develop my knowledge of software architecture
 
 <center>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="200">
 </center>
   
-- Want to connect? Check out my [Linkedin](https://www.linkedin.com/in/rafael-rojas-diaz/)
+- Want to connect? Check out my [LinkedIn](https://www.linkedin.com/in/rafael-rojas-diaz/)
 
 <center>
-<img alt="Linkeding Image" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="200">
+<img alt="LinkedIn Image" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="200">
 </center>
